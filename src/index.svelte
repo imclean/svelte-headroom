@@ -49,6 +49,7 @@
     width: 100%;
     top: 0;
     transition: transform 300ms linear;
+    z-index: 50;
   }
   .pin {
     transform: translateY(0%);
